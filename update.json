@@ -1,7 +1,7 @@
 {
     "version" : "1.0.0.0",
-    "downloadUrl" : "",
-    "sha512Hash" : "",
+    "downloadUrl" : "https://github.com/SenminPool/TyobitZeny/releases/download/v1.0.0.0/TyobitZeny.zip",
+    "sha512Hash" : "959f44821c160a7a3b90589564e5a2302804f1b94f0877febff18234264b4a9a4f635fbcc6123fc705de6814763d30607f1dff09b6120a5b7a56f32215e07cff",
     "fileName" : "TyobitZeny.zip",
-    "newsUrl": "https://google.com"
+    "newsUrl": "https://github.com/SenminPool/TyobitZeny/releases/tag/v1.0.0.0"
 }
